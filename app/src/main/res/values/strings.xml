@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoalLock</string>
+    <string name="accessibility_description">GoalLock only checks which app is on screen. It closes social media and streaming apps until your daily goals are done, and counts time spent in your goal apps. It does not read what is on your screen.</string>
+</resources>
